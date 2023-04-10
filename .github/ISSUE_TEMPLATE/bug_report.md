@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Site URL**
+The best way to help us reproduce & isolate the behavior will describe is to capture the current URL on the site where the bug is occurring (this will help us determine if the bug is package related). If you landed on the error page, please report the URL next to the Retry link if available.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -23,18 +26,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Site URL**
-The current URL on [tripleslash.io](https://tripleslash.io) where the bug is occurring (this will help us determine if the bug is package related).
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
 **Additional context**
